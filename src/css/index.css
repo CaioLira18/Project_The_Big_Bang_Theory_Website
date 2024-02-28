@@ -348,9 +348,10 @@ background-color: #330644;
     
     .personagens .texto{
         width: 600px;
+        margin-left: 100px;
     }
     .personagens h1 {
-    font-size: 80px;
+      font-size: 80px;
       text-align: center;
       font-family: "ChaletComprime";
 

@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
 // Espera até que o conteúdo da página seja carregado
 document.addEventListener("DOMContentLoaded", function() {
     // Seleciona todas as divs que você deseja animar
-    var elementsToAnimate = document.querySelectorAll('.icones, .botoes, .box');
+    var elementsToAnimate = document.querySelectorAll('.icones, .botoes, .box, .botao-personagem, .bg, .cabecalho, .box-image, .personagens');
 
     // Define a opacidade inicial das divs como 0
     elementsToAnimate.forEach(function(element) {
