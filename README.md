@@ -8,9 +8,9 @@ The objective of this project is to create an attractive and functional web page
 
 
 # Technologies Used
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 # Project Structure
 The Project is structured as follows:
