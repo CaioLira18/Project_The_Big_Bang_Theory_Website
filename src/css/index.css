@@ -334,3 +334,31 @@ background-color: #330644;
         margin-top: 0; /* Remova a margem superior */
         margin-bottom: 10px; /* Ajuste a margem inferior conforme necessário */
     }
+
+    .personagens {
+        display: flex; /* Define o layout como flexível */
+        align-items: center; /* Alinha os itens verticalmente */
+    }
+    
+    .personagens img {
+        width: 800px; /* Ajusta a largura da imagem conforme necessário */
+        height: auto; /* Mantém a proporção da imagem */
+        margin-right: 10px; /* Adiciona margem à direita para separar a imagem do texto */
+    }
+    
+    .personagens .texto{
+        width: 600px;
+    }
+    .personagens h1 {
+    font-size: 80px;
+      text-align: center;
+      font-family: "ChaletComprime";
+
+
+    }
+    
+    .personagens h2{
+        font-family: "ChaletComprime";
+        font-size: 30px;
+        text-align: center;
+    }
