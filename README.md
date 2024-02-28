@@ -27,5 +27,5 @@ The page includes the following features:
 - Display of character icons
 - Interactive Images
 - Synopsis of Seasons
-- "Future Update" Character Biography List
+- Character Biography List
 - Page with High Resolution Images
