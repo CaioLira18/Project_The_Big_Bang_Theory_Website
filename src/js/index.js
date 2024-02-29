@@ -31,6 +31,18 @@ document.addEventListener("DOMContentLoaded", function() {
                 case "6":
                     document.getElementById("sinopse-temporada").textContent = "Leonard e Penny tentam novamente um relacionamento, enquanto Sheldon e Amy exploram a intimidade emocional. A dinâmica do grupo continua a evoluir, com Howard e Bernadette enfrentando desafios em seu casamento. Raj encontra alguma estabilidade em sua vida amorosa. A temporada termina com Leonard partindo para um trabalho temporário em uma expedição marinha."
                     break;
+                case "7":
+                    document.getElementById("sinopse-temporada").textContent = "Leonard e Penny tentam novamente um relacionamento, enquanto Sheldon e Amy exploram a intimidade emocional. A dinâmica do grupo continua a evoluir, com Howard e Bernadette enfrentando desafios em seu casamento. Raj encontra alguma estabilidade em sua vida amorosa. A temporada termina com Leonard partindo para um trabalho temporário em uma expedição marinha."
+                    break;
+                case "8":
+                    document.getElementById("sinopse-temporada").textContent = "Leonard e Penny tentam novamente um relacionamento, enquanto Sheldon e Amy exploram a intimidade emocional. A dinâmica do grupo continua a evoluir, com Howard e Bernadette enfrentando desafios em seu casamento. Raj encontra alguma estabilidade em sua vida amorosa. A temporada termina com Leonard partindo para um trabalho temporário em uma expedição marinha."
+                    break;
+                case "9":
+                        document.getElementById("sinopse-temporada").textContent = "Leonard e Penny tentam novamente um relacionamento, enquanto Sheldon e Amy exploram a intimidade emocional. A dinâmica do grupo continua a evoluir, com Howard e Bernadette enfrentando desafios em seu casamento. Raj encontra alguma estabilidade em sua vida amorosa. A temporada termina com Leonard partindo para um trabalho temporário em uma expedição marinha."
+                        break;
+                case "10":
+                        document.getElementById("sinopse-temporada").textContent = "Leonard e Penny tentam novamente um relacionamento, enquanto Sheldon e Amy exploram a intimidade emocional. A dinâmica do grupo continua a evoluir, com Howard e Bernadette enfrentando desafios em seu casamento. Raj encontra alguma estabilidade em sua vida amorosa. A temporada termina com Leonard partindo para um trabalho temporário em uma expedição marinha."
+                        break;
                 default:
                     document.getElementById("sinopse-temporada").textContent = "Sinopse não encontrada.";
             }
