@@ -361,5 +361,7 @@ background-color: #330644;
     .personagens h2{
         font-family: "ChaletComprime";
         font-size: 30px;
+        padding: 20px;
+        letter-spacing: 1px;
         text-align: center;
     }

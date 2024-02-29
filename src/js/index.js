@@ -20,9 +20,17 @@ document.addEventListener("DOMContentLoaded", function() {
                     document.getElementById("sinopse-temporada").textContent = "Enquanto Sheldon (Jim Parsons) continua satisfeito e contente em passar suas noites jogando Klingon Boggle com Howard (Simon Helberg) e Raj (Kunal Nayyar), Leonard (Johnny Galecki) interpreta a chegada de Penny (Kaley Cuoco) como um novo universo de possibilidades, inclusive as românticas...";
                     break;
                 case "3":
-                        document.getElementById("sinopse-temporada").textContent = "Após retornarem de uma temporada de pesquisas no Polo Norte, Leonard (Johnny Galecki) começa um relacionamento com Penny (Kaley Cuoco) e Howard (Simon Helberg) engata um namoro com Bernadette (Melissa Rauch). Enquanto isso, Sheldon (Jim Parsons) reencontra seu arqui-inimigo: o famoso Wil Wheaton.";
-                        break;
-                // Adicione mais casos conforme necessário para mais temporadas
+                    document.getElementById("sinopse-temporada").textContent = "Após retornarem de uma temporada de pesquisas no Polo Norte, Leonard (Johnny Galecki) começa um relacionamento com Penny (Kaley Cuoco) e Howard (Simon Helberg) engata um namoro com Bernadette (Melissa Rauch). Enquanto isso, Sheldon (Jim Parsons) reencontra seu arqui-inimigo: o famoso Wil Wheaton.";
+                    break;
+                case "4":
+                    document.getElementById("sinopse-temporada").textContent = "Na Quarta temporada, Leonard e Penny tentam reacender seu relacionamento, mas encontram vários obstáculos. Sheldon lida com sua obsessão pelo controle enquanto tenta manter seu status quo. Howard se envolve em um relacionamento sério com Bernadette, enquanto Raj tenta superar sua timidez com mulheres. A temporada termina com Leonard e Penny se beijando, indicando uma possível retomada de seu romance.";
+                    break;
+                case "5":
+                    document.getElementById("sinopse-temporada").textContent = "A Relação entre Leonard e Penny enfrenta altos e baixos, enquanto Sheldon e Amy começam a explorar seu relacionamento de uma maneira mais profunda. Howard e Bernadette se preparam para o casamento, enquanto Raj começa a desenvolver alguma autonomia em sua vida amorosa. A temporada culmina com o casamento de Howard e Bernadette."
+                    break;
+                case "6":
+                    document.getElementById("sinopse-temporada").textContent = "Leonard e Penny tentam novamente um relacionamento, enquanto Sheldon e Amy exploram a intimidade emocional. A dinâmica do grupo continua a evoluir, com Howard e Bernadette enfrentando desafios em seu casamento. Raj encontra alguma estabilidade em sua vida amorosa. A temporada termina com Leonard partindo para um trabalho temporário em uma expedição marinha."
+                    break;
                 default:
                     document.getElementById("sinopse-temporada").textContent = "Sinopse não encontrada.";
             }
